@@ -1,0 +1,5 @@
+A database-management system (DBMS) is a collection of interrelated data and a set of programs to access those data. The collection of data, usually referred to as the database, contains information relevant to an enterprise. THe primary goal of a DBMS is to provide a way to store and retrieve database information that is both convenient and efficient.
+
+Database system are designed to manage large bodies of information. Management of data involves both defining structures for storage of information and providing mechanisms for the manipulation of information. In addition, the database system must ensure the safety of the information stored, despite system crashes or attempts at unauthorized access. If data are to be shared among several users, the system must avoid possible anomalous results.
+
+Because information is so important in most organization, computer scientists have developed a large body of concepts and techniques for managing data. These concepts and techniques form the foundation of modern **Database Management System**.
